@@ -1,4 +1,4 @@
-# Delta Air Lines - Customer Experience & Competitive Intelligence
+# Delta Air Lines - Customer Experience Intelligence
 
 ---
 
@@ -8,8 +8,7 @@ Delta Air Lines reviews (2017–2026) reveal a mid-tier performer in a low-satis
 
 <img width="849" height="582" alt="image" src="https://github.com/user-attachments/assets/cac7ce7f-df1d-46f2-bb56-6254def69459" />
 
-- Access the dashboard 👉
-- Access executive summary 👉 
+- Access the dashboard 👉 [Mode dashboard](https://github.com/ninhgiang225/Customer-Airline-Experience-Intelligence/blob/main/dashboard/Delta-customer-experience-report.pdf)
 
 ---
 
