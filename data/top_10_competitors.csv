@@ -1,0 +1,11 @@
+"AIRLINE_NAME","TOTAL_REVIEWS","AVG_RATING","REC_RATE","AIRLINE_TYPE","RNK"
+"Qatar Airways",1435,3.76,0.0,"Competitor",6
+"British Airways",1391,2.60,0.0,"Competitor",7
+"Lufthansa",1248,2.48,0.0,"Competitor",9
+"Turkish Airlines",1374,2.40,0.0,"Competitor",8
+"Delta Air Lines",1394,2.38,0.0,"Delta Air Lines",1
+"Air Canada",1141,2.15,0.0,"Competitor",10
+"United Airlines",2219,1.99,0.0,"Competitor",3
+"American Airlines",2897,1.82,0.0,"Competitor",2
+"Spirit Airlines",2074,1.49,0.0,"Competitor",4
+"Frontier Airlines",1884,1.39,0.0,"Competitor",5

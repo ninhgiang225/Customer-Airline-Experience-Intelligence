@@ -1,0 +1,72 @@
+"AIRLINE_NAME","TOTAL_REVIEWS","AVG_RATING","AIRLINE_TYPE","PERCENTILE_RANK"
+"China Southern Airlines",794,4.20,"Competitor",100.0
+"Garuda Indonesia",352,4.01,"Competitor",98.6
+"Volotea",559,3.94,"Competitor",97.1
+"Qatar Airways",1435,3.76,"Competitor",95.7
+"Singapore Airlines",742,3.54,"Competitor",94.3
+"Cathay Pacific Airways",524,3.29,"Competitor",92.9
+"Thai Airways",391,3.04,"Competitor",91.4
+"Vietnam Airlines",263,2.97,"Competitor",90.0
+"Aegean Airlines",332,2.95,"Competitor",88.6
+"Philippine Airlines",436,2.84,"Competitor",87.1
+"Malaysia Airlines",551,2.78,"Competitor",85.7
+"Emirates",917,2.76,"Competitor",84.3
+"Oman Air",208,2.73,"Competitor",82.9
+"KLM Royal Dutch Airlines",782,2.71,"Competitor",78.6
+"Qantas Airways",732,2.71,"Competitor",78.6
+"Virgin Australia",425,2.71,"Competitor",78.6
+"Air France",629,2.69,"Competitor",77.1
+"SriLankan Airlines",233,2.67,"Competitor",74.3
+"Air New Zealand",286,2.67,"Competitor",74.3
+"IndiGo",308,2.66,"Competitor",72.9
+"Swiss Intl Air Lines",489,2.65,"Competitor",71.4
+"Finnair",338,2.64,"Competitor",70.0
+"British Airways",1391,2.60,"Competitor",68.6
+"Air China",245,2.54,"Competitor",67.1
+"Kenya Airways",239,2.49,"Competitor",65.7
+"Lufthansa",1248,2.48,"Competitor",64.3
+"Saudi Arabian Airlines",237,2.45,"Competitor",62.9
+"Ethiopian Airlines",263,2.44,"Competitor",61.4
+"Austrian Airlines",325,2.42,"Competitor",60.0
+"Norwegian",456,2.40,"Competitor",57.1
+"Turkish Airlines",1374,2.40,"Competitor",57.1
+"Breeze Airways",255,2.39,"Competitor",55.7
+"LOT Polish Airlines",409,2.38,"Competitor",52.9
+"Delta Air Lines",1394,2.38,"Delta Air Lines",52.9
+"SpiceJet",438,2.33,"Competitor",51.4
+"easyJet",577,2.32,"Competitor",50.0
+"Southwest Airlines",745,2.29,"Competitor",48.6
+"AirAsia",429,2.28,"Competitor",47.1
+"Aer Lingus",300,2.27,"Competitor",44.3
+"Air India",714,2.27,"Competitor",44.3
+"LATAM Airlines",359,2.26,"Competitor",41.4
+"Iberia",351,2.26,"Competitor",41.4
+"TAP Portugal",751,2.23,"Competitor",40.0
+"Etihad Airways",767,2.21,"Competitor",38.6
+"Alaska Airlines",441,2.20,"Competitor",37.1
+"Brussels Airlines",203,2.18,"Competitor",35.7
+"Icelandair",239,2.17,"Competitor",34.3
+"Air Canada",1141,2.15,"Competitor",31.4
+"Swoop",493,2.15,"Competitor",31.4
+"Lynx Air",295,2.14,"Competitor",30.0
+"Scoot",363,2.12,"Competitor",28.6
+"SAS Scandinavian",357,2.10,"Competitor",27.1
+"Aeromexico",284,2.07,"Competitor",25.7
+"Jetblue Airways",736,2.04,"Competitor",22.9
+"Ryanair",940,2.04,"Competitor",22.9
+"WestJet Airlines",622,2.02,"Competitor",21.4
+"United Airlines",2219,1.99,"Competitor",20.0
+"Cebu Pacific",214,1.97,"Competitor",18.6
+"Eurowings",284,1.93,"Competitor",17.1
+"VietJet Air",506,1.89,"Competitor",14.3
+"flydubai",245,1.89,"Competitor",14.3
+"Jetstar Airways",545,1.83,"Competitor",11.4
+"WOW air",217,1.83,"Competitor",11.4
+"American Airlines",2897,1.82,"Competitor",8.6
+"Wizz Air",778,1.82,"Competitor",8.6
+"Flair Airlines",750,1.79,"Competitor",7.1
+"Avianca",380,1.64,"Competitor",4.3
+"Vueling Airlines",449,1.64,"Competitor",4.3
+"Allegiant Air",612,1.62,"Competitor",2.9
+"Spirit Airlines",2074,1.49,"Competitor",1.4
+"Frontier Airlines",1884,1.39,"Competitor",0.0

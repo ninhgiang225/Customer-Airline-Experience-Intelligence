@@ -17,12 +17,19 @@ Delta Air Lines reviews (2017–2026) reveal a mid-tier performer in a low-satis
 
 Analyzed **160,000+ airline reviews** from AirlineQuality.com (2017–2026) using SQL (Snowflake) and Mode Analytics to benchmark Delta Air Lines against its top competitors and surface actionable drivers of customer dissatisfaction.
 
-Key findings: 
+Key insights: 
 - Delta ranks **5th of 10** among the most-reviewed airlines globally with an average rating of 2.6/5 and a recommendation rate of 33%.
 - The weakest service dimensions are **Wi-Fi & Connectivity** and **Ground Service**; relatively stronger is **Cabin Staff**, which is the only dimension that consistently outperforms the rest.
 - Segment deep-dives (seat type, traveller type, layover status, flyer frequency) confirm that **Economy Class Solo Leisure passengers** are the primary driver of bad reviews, while frequent flyers (10+ flights) generate bad reviews at one-third the rate of first-time passengers.
 
+Recommendation: 
 
+| # | Action | Why |
+|---|---|---|
+| 🔴 1 | Upgrade WiFi infrastructure | 9-year chronic underperformer, critical for Solo Leisure |
+| 🔴 2 | First-flight experience programme | 0.509 bad review rate — highest risk moment |
+| 🟡 3 | Economy Class service standards | 82.8% of bad review volume lives here |
+| 🟢 4 | Protect Cabin Staff quality | Only consistent strength across 9 years |
 
 ---
 
