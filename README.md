@@ -1,5 +1,19 @@
 # Delta Air Lines - Customer Experience Intelligence
 
+<p>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mode%20Analytics-7B2FBE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Star%20Schema-1D9E75?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Window%20Functions-0F6E56?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CTEs-185FA5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Competitive%20Benchmarking-F59E0B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/YoY%20Trend%20Analysis-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Confounding%20Variable%20Analysis-E91E63?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Segmentation-9C27B0?style=for-the-badge"/>
+
+</p>
 ---
 
 ## TL;DR
