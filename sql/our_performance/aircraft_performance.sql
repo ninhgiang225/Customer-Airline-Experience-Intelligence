@@ -1,0 +1,22 @@
+SELECT
+    ac.AIRCRAFT_MODEL,
+    ac.AIRCRAFT_MANUFACTURER,
+    ac.SEAT_CAPACITY,
+    COUNT(f.REVIEW_KEY)                             AS review_count,
+    ROUND(AVG(f.AVERAGE_RATING), 2)                 AS avg_rating,
+    ROUND(AVG(f.SEAT_COMFORT), 2)                   AS seat_comfort,
+    ROUND(AVG(f.WIFI_AND_CONNECTIVITY), 2)          AS wifi_score,
+    ROUND(
+        SUM(CASE WHEN UPPER(f.RECOMMENDED) = 'TRUE' THEN 1 ELSE 0 END)
+        / NULLIF(COUNT(*), 0) * 100
+    , 1)                                            AS rec_rate
+FROM MARTS.FCT_REVIEW f
+JOIN MARTS.DIM_AIRLINE   a  ON f.AIRLINE_ID  = a.AIRLINE_ID
+JOIN MARTS.DIM_AIRCRAFT  ac ON f.AIRCRAFT_ID = ac.AIRCRAFT_ID
+WHERE a.AIRLINE_NAME = 'Delta Air Lines'
+    AND f.IS_VERIFIED = TRUE
+    AND ac.AIRCRAFT_MODEL IS NOT NULL
+    AND ac.AIRCRAFT_MANUFACTURER IS NOT NULL
+GROUP BY ac.AIRCRAFT_MODEL, ac.AIRCRAFT_MANUFACTURER, ac.SEAT_CAPACITY
+HAVING COUNT(f.REVIEW_KEY) >= 20
+ORDER BY avg_rating DESC;
