@@ -1,0 +1,13 @@
+"MONTH_NAME","MONTH_NUM","AVG_RATING","REVIEW_COUNT"
+"January",1,2.43,88
+"February",2,2.51,88
+"March",3,2.36,137
+"April",4,2.43,115
+"May",5,2.33,150
+"June",6,2.29,134
+"July",7,2.24,130
+"August",8,2.23,140
+"September",9,2.41,97
+"October",10,2.33,88
+"November",11,2.48,109
+"December",12,2.68,118
