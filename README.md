@@ -20,9 +20,11 @@
 
 Delta Air Lines reviews (2017–2026) reveal a mid-tier performer in a low-satisfaction industry — avg rating **2.6/5**, only **33% of passengers would recommend**, with Wi-Fi and Ground Service as the most consistent underperformers. Despite low absolute scores, **year-over-year trends are positive across all KPIs**, and frequent flyers show significantly higher tolerance. Solo Leisure travellers in Economy Class represent the most dissatisfied and highest-volume segment.
 
+- Access the dashboard 👉 [Mode dashboard](https://github.com/ninhgiang225/Customer-Airline-Experience-Intelligence/blob/main/dashboard/Delta-customer-experience-report.pdf)
+
 <img width="849" height="582" alt="image" src="https://github.com/user-attachments/assets/cac7ce7f-df1d-46f2-bb56-6254def69459" />
 
-- Access the dashboard 👉 [Mode dashboard](https://github.com/ninhgiang225/Customer-Airline-Experience-Intelligence/blob/main/dashboard/Delta-customer-experience-report.pdf)
+
 
 ---
 
